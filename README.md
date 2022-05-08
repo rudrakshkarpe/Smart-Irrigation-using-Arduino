@@ -9,7 +9,7 @@
 - Bread Board
 - Connecting pins to connect sensors to the arduino board
 
-## Todo's for the day 0/05/2022
+## Todo's for the day 08/05/2022
 - [ ] Connecting the circuit
 - [ ] Uploading program to the Arduino Mega
 - [ ] Soldering the Motar

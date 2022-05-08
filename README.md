@@ -12,6 +12,7 @@
 ## Todo's for the day 08/05/2022
 - [X] Connecting the circuit
 - [ ] Uploading program to the Arduino Mega
+- [ ] Need to find the perfect code for the program and upload it to the arduino board
 - [X] Soldering the Motar
 - [ ] Fixing any bugs occured
 - [ ] Dry run on the project with the soil moisture sensor

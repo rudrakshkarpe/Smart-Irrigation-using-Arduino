@@ -8,3 +8,10 @@
 - Soil Moisture sensor
 - Bread Board
 - Connecting pins to connect sensors to the arduino board
+
+## Todo's for the day 0/05/2022
+- [ ] Connecting the circuit
+- [ ] Uploading program to the Arduino Mega
+- [ ] Soldering the Motar
+- [ ] Fixing any bugs occured
+- [ ] Dry run on the project with the soil moisture sensor

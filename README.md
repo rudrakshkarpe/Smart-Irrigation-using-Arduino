@@ -10,8 +10,8 @@
 - Connecting pins to connect sensors to the arduino board
 
 ## Todo's for the day 08/05/2022
-- [ ] Connecting the circuit
+- [X] Connecting the circuit
 - [ ] Uploading program to the Arduino Mega
-- [ ] Soldering the Motar
+- [X] Soldering the Motar
 - [ ] Fixing any bugs occured
 - [ ] Dry run on the project with the soil moisture sensor

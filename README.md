@@ -16,3 +16,10 @@
 - [X] Soldering the Motar
 - [ ] Fixing any bugs occured
 - [ ] Dry run on the project with the soil moisture sensor
+
+
+
+## Script for the Video Presentation of the project
+
+
+### We here as a part of he 

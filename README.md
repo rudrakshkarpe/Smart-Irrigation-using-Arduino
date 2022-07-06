@@ -1,4 +1,4 @@
-# Smart water irrigation system 
+# ```Smart Water Irrigation System ```
 ### IoT based project to develop smart Irrigation system using soil moisture
 
 

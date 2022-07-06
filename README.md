@@ -1,5 +1,5 @@
-# Smart-Irrigation-using-Arduino
-### IoT based project to develop  smart Irrigation system using soil moisture sensor and Node MCU
+# Smart water irrigation system 
+### IoT based project to develop smart Irrigation system using soil moisture
 
 
 ## Available Devices 
@@ -11,15 +11,15 @@
 
 ## Todo's for the day 08/05/2022
 - [X] Connecting the circuit
-- [ ] Uploading program to the Arduino Mega
-- [ ] Need to find the perfect code for the program and upload it to the arduino board
+- [X] Uploading program to the Arduino Mega
+- [X] Need to find the perfect code for the program and upload it to the arduino board
 - [X] Soldering the Motar
-- [ ] Fixing any bugs occured
-- [ ] Dry run on the project with the soil moisture sensor
-
+- [X] Fixing any bugs occured
+- [X] Dry run on the project with the soil moisture sensor
 
 
 ## Script for the Video Presentation of the project
+- [X] Done 
 
-
-### We here as a part of he 
+### Project Submission 
+- [X] Done
